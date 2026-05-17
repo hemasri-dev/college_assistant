@@ -12,7 +12,8 @@ faq_responses = {
     "hostel": ["hostel", "accommodation", "dorm", "room", "living"],
     "departments": ["department", "faculty", "staff", "professors", "hod"],
     "contact": ["contact", "phone", "email", "location", "address", "reach"],
-    "goodbye": ["bye", "thank you", "thanks", "goodbye", "see you"]
+    "thank you": ["thank you", "thanks", "appreciate it", "grateful", "thank"],
+    "bye": ["bye", "goodbye", "see you", "farewell", "take care"]
 }
 
 response_data = {
@@ -24,7 +25,8 @@ response_data = {
     "hostel": "Yes, we provide separate hostel facilities for boys and girls with high-speed Wi-Fi, 24/7 security, gym, and mess facilities.",
     "departments": "Our college has 6 main departments: Computer Science, Information Tech, Electrical, Mechanical, Civil, and Management Studies.",
     "contact": "You can reach us at admissions@ourcollege.edu or call us at +1 (800) 123-4567. Our campus is located at 123 University Drive, Cityville.",
-    "goodbye": "You're welcome! Have a great day ahead! Feel free to ask if you need more information.",
+    "thank you": "You're welcome! Have a great day ahead! Feel free to ask if you need more information.",
+    "bye": "Goodbye! Take care and have a wonderful day!",
     "default": "I'm sorry, I didn't quite catch that. Could you please rephrase or ask about courses, admissions, fees, placements, hostel, or contact details?"
 }
 
