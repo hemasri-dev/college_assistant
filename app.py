@@ -5,7 +5,7 @@ app = Flask(__name__)
 # Predefined dictionary for chatbot responses
 faq_responses = {
     "greetings": ["hello", "hi", "hey", "greetings", "good morning", "good afternoon", "good evening"],
-    "courses": ["courses", "programs", "degrees", "what do you offer", "branches"],
+    "courses": ["courses", "course", "programs", "degrees", "what do you offer", "branches"],
     "admissions": ["admission", "apply", "enroll", "registration", "deadline"],
     "fees": ["fee", "cost", "tuition", "price", "how much"],
     "placements": ["placement", "jobs", "recruiters", "salary", "companies"],
